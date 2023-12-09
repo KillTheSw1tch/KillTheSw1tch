@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KillTheSw1tch
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in C++, JS
+- 🌱 I’m currently learning C++, JS, Node.js, Nest.js, MongoDB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
